@@ -8,7 +8,7 @@ Q4: <question-four style="display:none">Passcode: JavaScriptRules</question-four
 
 Q5: <span style="opacity: 0;">Question 5 Passcode:
       SvelteBeatsReact</span>
-Q6: 
+Q6: // Question 6 Passcode: ThisIsJS
 
 Q7: Question 7 Passcode: YouFoundMe
 
