@@ -1,1 +1,39 @@
+Q1: <!-- Passcode for question 1: greenEggsAndHam -->   
+
+Q2: <title data-question2="iHateCplusplus">Scavenger Hunt</title>
+
+Q3: <p hidden=""> Passcode for question 3: HTMLRocks</p>
+
+Q4: <question-four style="display:none">Passcode: JavaScriptRules</question-four>
+
+Q5: <span style="opacity: 0;">Question 5 Passcode:
+      SvelteBeatsReact</span>
+Q6: 
+
+Q7: Question 7 Passcode: YouFoundMe
+
+Q8: /* Question 8 passcode: coolcoolcool */
+
+Q9: Question 9 passcode: 2020sucked
+
+Q10: btn.addEventListener('click', () => {
+  fetch('./question10.jpg');
+});
+
+Q11: <meta name="question11" content="a11yComesFirst">
+
+Q12: 
+<div data-question12passcode="iLoveWebDev"></div>
+
+
+
+
+
+
+
+
+
+
+
+
 
